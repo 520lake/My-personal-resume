@@ -91,9 +91,15 @@
 
 ---
 
-## 联系与下载
 
-📄 **完整PDF简历**：[点击下载](./resume-wang-suhu.pdf)  
+## 简历下载与预览
+
+📄 **PDF版本下载**：[点击下载](./resume-wang-suhu.pdf)  
+🌐 **在线预览**：[Google Docs查看](https://docs.google.com/gview?embedded=true&url=https://github.com/520lake/resume/raw/main/resume-wang-suhu.pdf)
+
+<p align="center">
+  <sub>文件大小：约 1.2MB | 最后更新：2025年11月</sub>
+</p>
 🌐 **个人作品集**：[https://github.com/520lake/projects](https://github.com/520lake/projects)  
 💬 **期待合作**：机器人开发 | 嵌入式系统 | AI算法应用
 
