@@ -94,8 +94,8 @@
 
 ## 简历下载与预览
 
-📄 **PDF版本下载**：[点击下载](blob:https://github.com/8392236b-c279-49e2-ae45-468742f9dd82)  
-🌐 **在线预览**：[Google Docs查看](https://docs.google.com/gview?embedded=true&url=https://github.com/520lake/resume/raw/main/resume-wang-suhu.pdf)
+📄 **PDF版本下载**：[点击下载](./%E7%AE%80%E5%8E%86%E7%9A%84%E4%B8%80%E4%BA%9B%E8%A1%A5%E5%85%85%E5%9B%BE.pdf)  
+🌐 **在线预览**：[Google Docs查看](https://docs.google.com/gview?embedded=true&url=https://github.com/520lake/resume/raw/main/%E7%AE%80%E5%8E%86%E7%9A%84%E4%B8%80%E4%BA%9B%E8%A1%A5%E5%85%85%E5%9B%BE.pdf)
 
 <p align="center">
   <sub>文件大小：约 1.2MB | 最后更新：2025年11月</sub>
